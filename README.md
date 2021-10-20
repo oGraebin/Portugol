@@ -6,7 +6,7 @@
 <p align="center"> Nessa pasta é possível encontrar exercícios de lógica de programação em portugol.
 <br>
 Será possível encontrar exercícios sobre:<br>
-  <ol> 
+  <ol align="center"> 
     <li> Operadores aritiméticos; </li>
     <li> Laços condicionais; </li>
     <li> Laços de repetição; </li>
